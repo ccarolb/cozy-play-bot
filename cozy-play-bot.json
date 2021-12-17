@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cozy-play-bot-qfdh",
+  "private_key_id": "662114e0af2788836a4177efa9b722b6e96d02cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3SOLPA9h+83FM\nTF+SzHldQUWIHxaCZ6NUPCimncbqtsBMIo8qaMuZzrEkemUqEUHfenLRStvvhxyb\nsM21S3MyowSWbXUF1a7Rg28KDdpm6sCDyrLGc7NlDkofI5BJo0ajDiButNXU43VC\nHsdEpFzqjmUSPtvK5pfNFZ1BGXmQftVUYLo9lKnzxJ0/YFnGFBUlnd486vHLduu8\ngYIPYPL3yiO7ECnpqOXTe2UxbYL6qQ/dMxhk2aWrtHPKnfOVv9PSkfLMGmyHioJb\nnU8uG2Nez7ouTMEBLyuI8REORh+dFPWzO7uocQQ072NYGAJAJYikVEicAVWapl/5\nrJAOg6UJAgMBAAECggEABTvkGjRKaOmryRl/OzJynsqf4TC+FFBAVkX3hTaJOSep\n2yK7guMGOWixH1ENdYOTpX2aLMbd+/uYQgvs++nhKseD+IW8q0N8YAhIUfmuTHUU\ntU7DBy7DpzWewT/jPW8Xs81R+MdaOd+a+B3n49prutkBIuG/pg4qtJUS7gp7sbgZ\nGBB6OhPzUrAm7khaBTxaeXVr4s01D4Uct18FOcZXk1HgWuQFU7JeqlSGEF1QzXMX\ns99h8TC8mX7MbHlgWOgmMQBfiCxq1HvZ9mscelt17o/z/8Ql1Owtric+DqjVnp8w\nejmIHdsaunilW2BlauhF7Yd7WwjHHALGW01MQsbg+QKBgQDp2Jmnn8dFx7qCWVSY\n+RIGfxtTaHBSuNaIzqKcgY1RPowEg/x/bksWcV3Tahgy7CP9WRfDLKguQ+wkzHU5\nH+8Z79Hpi/I6szTu+BMV40PxGjrvHXa053K3Tcwid2QF89BndcggLIi7l65BHq8a\nxfgIFkPDe9sOJchhKljPJbamHQKBgQDIpgkaEFasGpoyF93jMPMM1FkvWzP9JvwA\nphe4GYwLGN1R7V1dgi3Q7dG8D8eCJ0r8FmP+NkDzyHAFxgjhiwSfvQ5X1E5bs0Zm\nR7F/DxLF6Tjc4v3oY5nDl2s2arccRCOB8NlDVs6xUM6HPVePaYglr5cRQ2w6FIPw\nKbkse8LW3QKBgEcdAY1CP71uwb9GHz3t8JddLBgvWIkvgL5V6ImjtDASz03IPY8b\nIWaPzzKtvvItcbxnzZwjBnobWcLPEo7usS24CqP1VRKY0O4jLtqnJFA749Q3p5PY\nFsC7vep1WEufG6962ANAx8wUkn9nL2T68zSyYKUgEzu4LbmuwRctpt/ZAoGBAJa1\nJ3b9OKySWqkvhgkkdhp30Pkh7t3Bj1zJZF1ySt728R2dRRh8M/+O8Y7o5ziaXNcV\n1ktV4tl4/rNHeNo3ueRlc0WDAMwdzs36IZbG8pnWwFAg6wfG7/KaY/v+kcTYZTcv\neXD73coPYODxsTfV015DEhv0YXEKgcM9A4om90S9AoGAQmW5G+YWX6vJ/mf4KTyL\nd4S4vAx544u0UOMP3gdKxjsdcmWmZRsa8xEfkj/CdyR+4jxvGEtIXzCYkuv5VT9M\naskafwPE1PFQpop1iXsUvUt2kpybvrlR+Y6HdhGXW19f7XhL4gKru2zRUgA9jj23\ngm4fg9xd306sl9Z0kvDVHho=\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-478@cozy-play-bot-qfdh.iam.gserviceaccount.com",
+  "client_id": "105385249813166233687",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-478%40cozy-play-bot-qfdh.iam.gserviceaccount.com"
+}

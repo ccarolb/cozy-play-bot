@@ -9,6 +9,7 @@
   "author": "Carolina B. Cardoso",
   "license": "ISC",
   "dependencies": {
+    "dialogflow": "^1.2.0",
     "node-telegram-bot-api": "^0.56.0"
   }
 }
