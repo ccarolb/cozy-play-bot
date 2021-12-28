@@ -1,5 +1,5 @@
 
-const { SessionsClient } = require('dialogflow');
+const SessionsClient = require('dialogflow');
 const dialogflow = require('dialogflow');
 const configs = require('./cozy-play-bot.json')
 
@@ -26,7 +26,11 @@ async function sendMessage(chatId, message) {
     }
     const responses = await sessionClient.detectIntent(request);
     const result = responses[0].queryResult;
-    console.log(result);
-}
+    return {
+        text: result.fulfillmentText,
+        intent: result.intent.displayName,
+        fields: result.parameters.fields
+    };
+};
 
-sendMessage('123214', 'oi')
+module.exports.sendMessage = sendMessage;
